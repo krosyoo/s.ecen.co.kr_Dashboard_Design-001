@@ -1,0 +1,6 @@
+{
+  "name": "ECEN Gait Analysis Dashboard",
+  "description": "Professional medical dashboard for gait analysis, featuring patient metrics, gait quality scores, and risk assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
