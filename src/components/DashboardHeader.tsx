@@ -5,8 +5,8 @@ export default function DashboardHeader() {
     <div className="bg-transparent h-24 flex items-center px-10">
       <div className="w-full flex items-center justify-between">
         <div className="flex flex-col">
-          <h1 className="text-3xl font-black text-slate-900 tracking-tight">System Analytics</h1>
-          <p className="text-sm text-slate-500 font-medium tracking-tight">Active subject: <span className="text-slate-900 font-bold">가나다</span></p>
+          <h1 className="text-3xl font-black text-slate-900 tracking-tight">eCEN Dashboard</h1>
+          <p className="text-sm text-slate-500 font-medium tracking-tight">Gait Analysis: <span className="text-slate-900 font-bold">김이센</span></p>
         </div>
         
         <div className="flex items-center gap-4">
